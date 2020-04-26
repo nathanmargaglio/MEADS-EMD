@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 venv/
 ./data/20200423-1804_states_timestep_mod_25.pickle
+data/
