@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir data
+wget -O data/20200423-1804_states_timestep_mod_25.pickle --no-check-certificate "https://docs.google.com/uc?export=download&id=1gdRuogqmlOISPXt_RfK2O3xatdP47zeJ"
+exec "$@"
